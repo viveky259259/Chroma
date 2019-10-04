@@ -1,33 +1,32 @@
 [
     {
-        "sessionName": "PWA in 20 Minutes",
+        "sessionName": "Community Management - Not less than a curry",
         "sessionColor": "geekblue",
-        "sessionDescription": "Let's sit for an energizing session on Progressive Web Apps!",
+        "sessionDescription": "The session covers best practices for a better community management and engagement in a project",
         "sessionStartTime": "09:00",
         "sessionEndTime": "10:00",
-        "speakerName": "Praveen Thirumurugan",
-        "speakerRole": "SDE, Trimble Inc.",
-        "speakerImage": "assets/team/praveen.jpg",
-        "speakerDescription": "PWA Session",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
+        "speakerName": "Prathamesh Chavan",
+        "speakerRole": "Technical Support Engineer,Red Hat",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "I am a Technical Support Engineer at Red Hat and a Mozilla Reps Councilman at Mozilla.",
+        "twitter": "https://twitter.com/pathfinderpc",
+        "linkedin": "https://www.linkedin.com/in/prathameshpchavan/",
         "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
+        "link": "https://praveent.com",
+        "email":"musicandprathamesh@gmail.com"
     },
     {
-        "sessionName": "Android Jetpack 101",
+        "sessionName": "Protocol Buffers: Is it worth the switch from JSON?",
         "sessionColor": "green",
-        "sessionDescription": "Buzzed about android? Here comes Fahid to give you more insights on Jetpack!",
+        "sessionDescription": "The general and really basic knowledge of web services (requests, responses, JSON). That's all. If they happen to be absolute beginners, that's not a problem too. My session aims absolute beginners and I don't assume that they know things already. It's from absolute scratch.",
         "sessionStartTime": "09:00",
         "sessionEndTime": "10:00",
-        "speakerName": "Fahid M",
-        "speakerRole": "SDE, Classworks India.",
-        "speakerImage": "assets/speakers/fahid.jpg",
-        "speakerDescription": "Android Jetpack",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
+        "speakerName": "Rishabh Singh",
+        "speakerRole": "Software Development Engineering (SDE) Intern, American Express",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "Hey Team. I’m Rishabh, a developer, consultant, tech evangelist & a struggling entrepreneur. I’m the lead developer at OffPay (@getoffpay), where my team & I try to make things happen without the internet! If I seem familiar to you, you must have seen me at Hackathons all around the country. I have interned at 8+ startups since my first year and I remain a technical consultant to 2 startups as of now. My job profile ranges from Backend development to Cloud Engineer to DevOps. I am currently interning and going to join American Express at their HQ in Bangalore full-time, next fall, 2020.",
+        "linkedin": "https://www.linkedin.com/in/pingrishabh",
+        "instagram":"https://instagram.com/cheesetouched"
     },
     {
         "sessionName": "Lunch 🍽🍕🍚",
@@ -36,18 +35,79 @@
         "sessionEndTime": "10:00"
     },
     {
-        "sessionName": "Tensorflow in Google Cloud",
+        "sessionName": "Best Practices for Building a mobile SDK",
         "sessionColor": "orange",
-        "sessionDescription": "New to Tensorflow? It has far more uses than you would imagine, know more about it.",
+        "sessionDescription": "What will we explore ?\nWe will explore best practices, learn do’s and don’ts to keep in mind while building a mobile sdk. We will learn publishing formats, providing reference apps, FAQ’s , documentations, background jobs, size reduction, transitive dependencies, etc.\n\n Advanced Usage ?\nI will try to explain the best known alternatives and commonly used sdk’s and learn what guidelines they follow. \n\nImpact for developers ?\nLearning best practices, will widen the developers perspective about building the sdk. This will enable them to expand their reach of sdk as well as ease of integration  and support. " ,
         "sessionStartTime": "09:00",
         "sessionEndTime": "10:00",
-        "speakerName": "Praveen Thirumurugan",
-        "speakerRole": "SDE, Trimble Inc.",
-        "speakerImage": "assets/team/praveen.jpg",
-        "speakerDescription": "Tensor Flow",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
+        "speakerName": "Mayuri Khinvasara",
+        "speakerRole": "Lead Android Engineer,Inventa",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "Mayuri has around 10+ years of industry  experience. She is a Lead Android Developer at Inventa, a community leader, entrepreneur and social worker etc. She has extensive work experience in Android, Java, Oracle Middleware,Web technologies, etc. She has independently developed 3 Android apps with 15000+ downloads. A computer engineer  from PICT, Pune, she has worked with Oracle. Globant, Tapntap, etc in Pune, Hyderabad and USA. She also ranks 9th in prestigious University of Pune.\nShe has delivered multiple talks in the past and loves to write technical articles.\nShe believes in giving back to the society, in a way or another. She is very passionate about community, and works hard towards hosting developer events and  passionate about encouraging women in the tech community. She is currently leading Google Developer Group Pune & is a Women Techmakers Ambassador.",
+        "linkedin": "https://linkedin.com/in/mayurikhinvasara/ ",
+        "github": "https://github.com/mayurik18"
+    
+    },
+
+    {
+        "sessionName": "Passwords are old, Let's use WebAuthentication",
+        "sessionColor": "orange",
+        "sessionDescription": "What if we could build our authentication processes in a way the user doesn’t need a password? I will give a quick overview of the past, present, and future of authentication. From basic authentication to passwordless biometric authentication using web authentication API, and everything in between." ,
+        "sessionStartTime": "09:00",
+        "sessionEndTime": "10:00",
+        "speakerName": "Md Shahbaz Alam",
+        "speakerRole": "CTO,Alfaaz Lingua",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Realtime Data, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.",
+        "linkedin": "https://www.linkedin.com/in/mdsbzalam/  ",
+        "github": "https://github.com/shahbaz17",
+        "twitter":"https://twitter.com/mdsbzalam"
+    
+    },
+    {
+        "sessionName": "VR beyond Imagination",
+        "sessionColor": "orange",
+        "sessionDescription": "WebVR is an experimental JavaScript API that provides support for virtual reality devices, such as the HTC Vive, Oculus Rift, Google Cardboard or OSVR in a web browser. WebVR is an open specification that makes it possible to experience VR in your browser. The goal is to make it easier for everyone to get into VR experiences, no matter what device you have. • About VR, WebVR & A-Frame • A-Frame Concepts • Demo of basic A-Frame scenes & apps. More examples at A Week of A-Frame • Show off A-Painter" ,
+        "sessionStartTime": "09:00",
+        "sessionEndTime": "10:00",
+        "speakerName": "Jayesh Katta Ramalingaiah",
+        "speakerRole": "Mozilla Tech Speaker ,Mozilla Foundation",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "Jayesh Katta Ramalingaiah is a professional Frontend developer, writes React code for a living and volunteers for Mozilla to justify his existence. He loves to talk about modern Javascript and tries to use it to solve all of the realtime problems. He is an expert in developing web apps.",
+        "linkedin": "https://www.linkedin.com/in/jayeshkattar ",
+        "github": "https://github.com/shahbaz17",
+        "twitter":"https://www.twitter.com/jayeshkattar"
+    
+    },
+    {
+        "sessionName": "Ideas into Action",
+        "sessionColor": "orange",
+        "sessionDescription": "My topic will be related to water conservation. I have developed a 'Water Saving Shower' which saves 85% shower which is almost 65-70 literes water per shower bath. I am currently in 9th standard & have already spoken at many international conferences & have received many awards for my innovation. So I will like to have a small session of 15-20 minutes as a break for whole day technical talks series. https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s" ,
+        "sessionStartTime": "09:00",
+        "sessionEndTime": "10:00",
+        "speakerName": "Srushti Nerkar",
+        "speakerRole": "Social Innovator",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "Srushti Nerkar’s growing concern over environmental issues pushed her to find solutions at the very young age of 12 years. She is now working with technologies to solve the problems at very young age. For the same she also got invited at International Women's Day Celebration at WTM Pune. She spoke how technology can help us to solve the major issues in the community. She has also spoke at multiple international conferences as a speaker at this young age. ",
+        "fb": "https://www.facebook.com/srushti.invent/",
+        "github": "https://github.com/shahbaz17",
+        "twitter":"https://twitter.com/mdsbzalam",
+        "youtube":"https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
+    },
+    {
+        "sessionName": "Deep dive in Flutter's Bloc",
+        "sessionColor": "orange",
+        "sessionDescription": "This session will deep dive in flutter's state management(A critical and important thing). We will see how, when, why for bloc pattern. What are the alternatives of bloc." ,
+        "sessionStartTime": "09:00",
+        "sessionEndTime": "10:00",
+        "speakerName": "Vivek Yadav",
+        "speakerRole": "Flutter Developer, ICICI LOMBARD",
+        "speakerImage": "assets/images/vivek.jpeg",
+        "speakerDescription": "He is a Flutter Dev, having experience in developing apps in flutter for 11 months and in android for 2 years. He loves to educate and learn to&from people.",
+        "fb": "https://www.facebook.com/viveky259",
+        "github": "github.com/viveky259259",
+        "twitter":"https://twitter.com/viveky259259",
+        "linkedin":"https://www.linkedin.com/in/vivek-yadav-665823129"
+      
     }
 ]
