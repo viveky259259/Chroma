@@ -20,7 +20,7 @@ Chroma is an Angular 8 based template for GDGs to build their DevFest/Event Webs
 
 This template was created to help developer communities save time in website construction time for DevFest or other Events and spend more time on hacking ways to engage with their communities.
 
-The development of this template was done by the team of GDG Cloud Coimbatore, GDG Coimbatore and WTM Coimbatore.
+The development of this template was done by the team of GDG Cloud Nashik, GDG Nashik and WTM Nashik.
 
 Stack / Good-to-Have(s)     | Description
 ----------------------------|---------------------------------------------------------------------------------------
@@ -135,7 +135,7 @@ ng build --prod             | Build the app for production
 
 ## Bugs and Feature Requests
 
-Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/gdg-cloud-coimbatore/Chroma/issues/new).
+Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/gdg-cloud-Nashik/Chroma/issues/new).
 
 ## Contributing
 
@@ -144,13 +144,13 @@ Have a bug or a feature request? If your problem or idea is not addressed yet, [
 
 ## Creators
 
-- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Coimbatore</a>
-- <a href="https://gdgcbe.com" target="_blank">GDG Coimbatore</a>
+- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Nashik</a>
+- <a href="https://gdgcbe.com" target="_blank">GDG Nashik</a>
 
 ## Template Usage
 
-- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Coimbatore</a>
-- <a href="https://gdgcbe.com" target="_blank">GDG Coimbatore</a>
+- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Nashik</a>
+- <a href="https://gdgcbe.com" target="_blank">GDG Nashik</a>
 
 ## Copyright and License
 
@@ -160,4 +160,4 @@ This project is licenced under Mozilla Public License 2.0.
 Please read the clauses carefully before you use it for personal or commercial purposes.
 
 Thanks to all supporters and contributors to make this available for everyone.
-If you have any suggesstions or feedbacks on the code, please ping GDG Cloud Coimbatore team for quick assistance.
+If you have any suggesstions or feedbacks on the code, please ping GDG Cloud Nashik team for quick assistance.
