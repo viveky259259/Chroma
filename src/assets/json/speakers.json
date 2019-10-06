@@ -15,39 +15,6 @@
         "link": "https://praveent.com",
         "email":"musicandprathamesh@gmail.com"
     },
-    {
-        "sessionName": "Protocol Buffers: Is it worth the switch from JSON?",
-        "sessionColor": "green",
-        "sessionDescription": "The general and really basic knowledge of web services (requests, responses, JSON). That's all. If they happen to be absolute beginners, that's not a problem too. My session aims absolute beginners and I don't assume that they know things already. It's from absolute scratch.",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Rishabh Singh",
-        "speakerRole": "Software Development Engineering (SDE) Intern, American Express",
-        "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "Hey Team. I’m Rishabh, a developer, consultant, tech evangelist & a struggling entrepreneur. I’m the lead developer at OffPay (@getoffpay), where my team & I try to make things happen without the internet! If I seem familiar to you, you must have seen me at Hackathons all around the country. I have interned at 8+ startups since my first year and I remain a technical consultant to 2 startups as of now. My job profile ranges from Backend development to Cloud Engineer to DevOps. I am currently interning and going to join American Express at their HQ in Bangalore full-time, next fall, 2020.",
-        "linkedin": "https://www.linkedin.com/in/pingrishabh",
-        "instagram":"https://instagram.com/cheesetouched"
-    },
-    {
-        "sessionName": "Lunch 🍽🍕🍚",
-        "sessionColor": "#000000",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00"
-    },
-    {
-        "sessionName": "Best Practices for Building a mobile SDK",
-        "sessionColor": "orange",
-        "sessionDescription": "What will we explore ?\nWe will explore best practices, learn do’s and don’ts to keep in mind while building a mobile sdk. We will learn publishing formats, providing reference apps, FAQ’s , documentations, background jobs, size reduction, transitive dependencies, etc.\n\n Advanced Usage ?\nI will try to explain the best known alternatives and commonly used sdk’s and learn what guidelines they follow. \n\nImpact for developers ?\nLearning best practices, will widen the developers perspective about building the sdk. This will enable them to expand their reach of sdk as well as ease of integration  and support. " ,
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Mayuri Khinvasara",
-        "speakerRole": "Lead Android Engineer,Inventa",
-        "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "Mayuri has around 10+ years of industry  experience. She is a Lead Android Developer at Inventa, a community leader, entrepreneur and social worker etc. She has extensive work experience in Android, Java, Oracle Middleware,Web technologies, etc. She has independently developed 3 Android apps with 15000+ downloads. A computer engineer  from PICT, Pune, she has worked with Oracle. Globant, Tapntap, etc in Pune, Hyderabad and USA. She also ranks 9th in prestigious University of Pune.\nShe has delivered multiple talks in the past and loves to write technical articles.\nShe believes in giving back to the society, in a way or another. She is very passionate about community, and works hard towards hosting developer events and  passionate about encouraging women in the tech community. She is currently leading Google Developer Group Pune & is a Women Techmakers Ambassador.",
-        "linkedin": "https://linkedin.com/in/mayurikhinvasara/ ",
-        "github": "https://github.com/mayurik18"
-    
-    },
 
     {
         "sessionName": "Passwords are old, Let's use WebAuthentication",
@@ -64,21 +31,7 @@
         "twitter":"https://twitter.com/mdsbzalam"
     
     },
-    {
-        "sessionName": "VR beyond Imagination",
-        "sessionColor": "orange",
-        "sessionDescription": "WebVR is an experimental JavaScript API that provides support for virtual reality devices, such as the HTC Vive, Oculus Rift, Google Cardboard or OSVR in a web browser. WebVR is an open specification that makes it possible to experience VR in your browser. The goal is to make it easier for everyone to get into VR experiences, no matter what device you have. • About VR, WebVR & A-Frame • A-Frame Concepts • Demo of basic A-Frame scenes & apps. More examples at A Week of A-Frame • Show off A-Painter" ,
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Jayesh Katta Ramalingaiah",
-        "speakerRole": "Mozilla Tech Speaker ,Mozilla Foundation",
-        "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "Jayesh Katta Ramalingaiah is a professional Frontend developer, writes React code for a living and volunteers for Mozilla to justify his existence. He loves to talk about modern Javascript and tries to use it to solve all of the realtime problems. He is an expert in developing web apps.",
-        "linkedin": "https://www.linkedin.com/in/jayeshkattar ",
-        "github": "https://github.com/shahbaz17",
-        "twitter":"https://www.twitter.com/jayeshkattar"
-    
-    },
+
     {
         "sessionName": "Ideas into Action",
         "sessionColor": "orange",
@@ -95,19 +48,9 @@
         "youtube":"https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
     },
     {
-        "sessionName": "Deep dive in Flutter's Bloc",
-        "sessionColor": "orange",
-        "sessionDescription": "This session will deep dive in flutter's state management(A critical and important thing). We will see how, when, why for bloc pattern. What are the alternatives of bloc." ,
+        "sessionName": "Lunch 🍽🍕🍚",
+        "sessionColor": "#000000",
         "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Vivek Yadav",
-        "speakerRole": "Flutter Developer, ICICI LOMBARD",
-        "speakerImage": "assets/images/vivek.jpeg",
-        "speakerDescription": "He is a Flutter Dev, having experience in developing apps in flutter for 11 months and in android for 2 years. He loves to educate and learn to&from people.",
-        "fb": "https://www.facebook.com/viveky259",
-        "github": "github.com/viveky259259",
-        "twitter":"https://twitter.com/viveky259259",
-        "linkedin":"https://www.linkedin.com/in/vivek-yadav-665823129"
-      
-    }
+        "sessionEndTime": "10:00"
+    },
 ]
