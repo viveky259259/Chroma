@@ -1,56 +1,166 @@
 [
     {
-        "sessionName": "Community Management - Not less than a curry",
-        "sessionColor": "geekblue",
-        "sessionDescription": "The session covers best practices for a better community management and engagement in a project",
+        "sessionName": "Registration and networking 🍽🍕🍚",
+        "sessionColor": "#000000",
+        "sessionStartTime": "08:00",
+        "sessionEndTime": "09:00"
+      },
+      {
+        "sessionName": "Welcome Note +Team",
+        "sessionColor": "#000000",
         "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Prathamesh Chavan",
-        "speakerRole": "Technical Support Engineer,Red Hat",
+        "sessionEndTime": "09:15"
+      },
+      {
+        "sessionName": "Key note",
+        "sessionColor": "#000000",
+        "sessionStartTime": "09:15",
+        "sessionEndTime": "10:00"
+      },
+      {
+        "sessionName": "Mahaver Mutha",
+        "sessionColor": "#000000",
+        "sessionStartTime": "10:00",
+        "sessionEndTime": "10:30"
+      },
+      {
+        "sessionName": "Making things compartable with cloud",
+        "sessionColor": "orange",
+        "sessionDescription": "Being a Quest leader in Google Cloud I have explored lot of things about the GCP.  I was new to the world of GCP & then I learned so much things in this journey. I got to know why we should use the cloud platform. Being a ML enthusiast I would like to talk about why I was looking to purchase some high end machines, but cloud is making a lot of things easy for deployment purpose. Considering the beginner level developers & student community it will be perfect talk to complete the prerequisites for the next talks regarding the GCP platform or Anthos. As Mahaveer Muttha sir recomended me to share my journey of completing 250+ qwiklabs & 7 Coursera courses with the aspiring cloud developers. This will inspire them to start there journey into GCP & to prove them you can go into the clouds if you dedicate your time to cloud",
+        "sessionStartTime": "10:30",
+        "sessionEndTime": "10:45",
+        "speakerName": "Mayank Chourasia",
+        "speakerRole": "Student,DSC MITAOE CORE",
         "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "I am a Technical Support Engineer at Red Hat and a Mozilla Reps Councilman at Mozilla.",
-        "twitter": "https://twitter.com/pathfinderpc",
-        "linkedin": "https://www.linkedin.com/in/prathameshpchavan/",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com",
-        "email":"musicandprathamesh@gmail.com"
-    },
-
+        "speakerDescription": "Quest leader for Google Cloud Platform & have already trained ~500 people for GCP. I have completed 250+ qwiklabs & completed 7+ coursera courses on GCP. I am cloud enthusiast & have explored a lot regarding Google Cloud Platform by getting hands on practice & training others.",
+        "linkedin": "https://www.facebook.com/srushti.invent/",
+        "twitter": "https://twitter.com/chourasiamayank",
+        "email": "mayankchourasia2@gmail.com"
+      },
+      {
+        "sessionName": "Antrix Gupta",
+        "sessionColor": "#000000",
+        "sessionStartTime": "10:45",
+        "sessionEndTime": "11:15"
+      },
+      {
+        "sessionName": "Tea and networking",
+        "sessionColor": "#000000",
+        "sessionStartTime": "11:15",
+        "sessionEndTime": "11:45"
+      },
+      {
+        "sessionName": "Making communities Artificially Intelligent",
+        "sessionColor": "orange",
+        "sessionDescription": "Today we are having 25+ million differently abled people in our country & they are not having access to any kind of technology. Tech communities like GDG's & WTM are also not reaching to those individuals in society. Being a social innovator & an active community member I trying to get those people on-board as the technology users. For that I have created some innovative solutions using technologies like Android & TensorFlow. I have developed new hearing aid which is costing 1% of the current cost. That innovation uses android platform to teach the students about the basics of phonetics & helps them to gain confidence for speaking. They can also practice their pronunciations using the same. This innovation has impacted a lot of deaf persons in my community & is helping them to learn at the right age. This uses Google API's in the backend. There is also the device for Blind people which overcomes the measure drawbacks of existing solutions by Google & Microsoft. For this I am using TensorFlow eager execution & my own dataset. This will help people to think about the whole new aspect of community & how they can contribute to rest of the humanity using the power of the technical tools in their hand. If the 20 year old kid can then they can surely do. This talk will be a lightning talk of 15-20 minutes but can explore the people to whole new horizons of technology. Some parts of my this journey will be recorded by GOOGLE's international branding team to publish from their official handles. I can really help the audience by sharing my whole technological journey for communities to find 'what's their MoonShot?'",
+        "sessionStartTime": "11:45",
+        "sessionEndTime": "12:15",
+        "speakerName": "Amey Nerkar",
+        "speakerRole": "Lead,DSC MITAOE",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "I am a social innovator & making sure that technology is being used by the everyone out there in society. I am making something wonderful & putting it out there in society since childhood. I am using the latest technologies for the benefit of the common man. I am a Google Developer Student Club Lead as well the active member of GDG Pune. I was mentioned by Dr. A. P. J. Abdul Kalam in his inaugural speech at Indian Science Congress. I am good at Machine Learning & Android & using it for the communities where other tech communities like GDG's & WTM are not reaching. For my technological contributions towards the rest of the humanity Google is filming a documentary on my work & it will be published on official handles by Google. I am a public speaker & have addressed more than 50 national & international conferences. ",
+        "linkedin": "linkedin.com/in/ameyinvent",
+        "twitter": "https://twitter.com/ameyinvent",
+        "email": "amey.invent@gmail.com"
+      },
+      {
+        "sessionName": "Himanshu Jain and Pooja Jain",
+        "sessionColor": "#000000",
+        "sessionStartTime": "12:15",
+        "sessionEndTime": "12:45"
+      },
+      {
+        "sessionName": "Ideas into Action",
+        "sessionColor": "orange",
+        "sessionDescription": "My topic will be related to water conservation. I have developed a 'Water Saving Shower' which saves 85% shower which is almost 65-70 literes water per shower bath. I am currently in 9th standard & have already spoken at many international conferences & have received many awards for my innovation. So I will like to have a small session of 15-20 minutes as a break for whole day technical talks series. https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s",
+        "sessionStartTime": "12:45",
+        "sessionEndTime": "01:00",
+        "speakerName": "Srushti Nerkar",
+        "speakerRole": "Social Innovator",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "Srushti Nerkar’s growing concern over environmental issues pushed her to find solutions at the very young age of 12 years. She is now working with technologies to solve the problems at very young age. For the same she also got invited at International Women's Day Celebration at WTM Pune. She spoke how technology can help us to solve the major issues in the community. She has also spoke at multiple international conferences as a speaker at this young age. ",
+        "fb": "https://www.facebook.com/srushti.invent/",
+        "youtube": "https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
+      },
     {
+      "sessionName": "Lunch 🍽🍕🍚",
+      "sessionColor": "#000000",
+      "sessionStartTime": "01:00",
+      "sessionEndTime": "02:00"
+    },
+    {
+        "sessionName": "Dhrumil Shah",
+        "sessionColor": "#000000",
+        "sessionStartTime": "02:00",
+        "sessionEndTime": "02:30"
+      },
+      {
+        "sessionName": "Learning Machines, doing Machine Learning!",
+        "sessionColor": "geekblue",
+        "sessionDescription": "I’ve always been exploring my curriculum because it's teaching me machines and I am doing machine learning, also recently my monday motivation twitted by Google Devs India (https://twitter.com/GoogleDevsIN/status/1168433193193627648?s=20)I would like to depict my journey of two years from having inferiority complex towards computer science to being this frank in communities loving me for being a tech enthusiast. I wanna go beyond gender diversity, to this convex approach to tech with all the other aspects. What communities gave me is a perspective to look for opportunities around, taught me to learn new things coming on my way. Basically wanna say everything out here is offering you something, I take it to my vision & climb! I would also like to talk about my recent research on user experience & product design, srints, agile & scrum, giving a focus to Human Computer Interaction, focusing AI & ML, one of my blog published by REDX, founded by Prof. Ramesh Rasker (https://medium.com/@vidyangispatil/turning-noisy-stampedes-of-wari-into-cradles-of-innovation-87e30f2d9def). Today when I look back to what I was two years back, I feel awesome being a learner among those 180 mechanical brains, thinking out of the box, making a new way towards promoting and letting everyone know that if you're fascinating enough for tech, you'll see solutions with it in every aspect to work in. Thinking about why don't we keep learning the way we expect machines to!",
+        "sessionStartTime": "2:30",
+        "sessionEndTime": "2:45",
+        "speakerName": "Namrata More",
+        "speakerRole": "Innovator at REDX MITAOE,MIT Acadmy of Engineering",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerDescription": "I'am a part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, Mentor at MentorCruise, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
+        "twitter": " https://twitter.com/namratamore_nm",
+        "email": "nmrtmore@gmail.com",
+        "fb": "https://www.facebook.com/nmrtmore",
+        "medium": "https://medium.com/@nmrtmore"
+      },
+      {
+        "sessionName": "Swapnil Jathar",
+        "sessionColor": "#000000",
+        "sessionStartTime": "02:45",
+        "sessionEndTime": "03:00"
+      },
+      {
         "sessionName": "Passwords are old, Let's use WebAuthentication",
         "sessionColor": "orange",
-        "sessionDescription": "What if we could build our authentication processes in a way the user doesn’t need a password? I will give a quick overview of the past, present, and future of authentication. From basic authentication to passwordless biometric authentication using web authentication API, and everything in between." ,
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
+        "sessionDescription": "What if we could build our authentication processes in a way the user doesn’t need a password? I will give a quick overview of the past, present, and future of authentication. From basic authentication to passwordless biometric authentication using web authentication API, and everything in between.",
+        "sessionStartTime": "03:00",
+        "sessionEndTime": "03:30",
         "speakerName": "Md Shahbaz Alam",
         "speakerRole": "CTO,Alfaaz Lingua",
         "speakerImage": "assets/images/default_speaker_image.png",
         "speakerDescription": "I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Realtime Data, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.",
         "linkedin": "https://www.linkedin.com/in/mdsbzalam/  ",
         "github": "https://github.com/shahbaz17",
-        "twitter":"https://twitter.com/mdsbzalam"
-    
-    },
-
+        "twitter": "https://twitter.com/mdsbzalam"
+      },
     {
-        "sessionName": "Ideas into Action",
-        "sessionColor": "orange",
-        "sessionDescription": "My topic will be related to water conservation. I have developed a 'Water Saving Shower' which saves 85% shower which is almost 65-70 literes water per shower bath. I am currently in 9th standard & have already spoken at many international conferences & have received many awards for my innovation. So I will like to have a small session of 15-20 minutes as a break for whole day technical talks series. https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s" ,
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Srushti Nerkar",
-        "speakerRole": "Social Innovator",
-        "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "Srushti Nerkar’s growing concern over environmental issues pushed her to find solutions at the very young age of 12 years. She is now working with technologies to solve the problems at very young age. For the same she also got invited at International Women's Day Celebration at WTM Pune. She spoke how technology can help us to solve the major issues in the community. She has also spoke at multiple international conferences as a speaker at this young age. ",
-        "fb": "https://www.facebook.com/srushti.invent/",
-        "github": "https://github.com/shahbaz17",
-        "twitter":"https://twitter.com/mdsbzalam",
-        "youtube":"https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
+      "sessionName": "Community Management - Not less than a curry",
+      "sessionColor": "geekblue",
+      "sessionDescription": "The session covers best practices for a better community management and engagement in a project",
+      "sessionStartTime": "03:30",
+      "sessionEndTime": "04:00",
+      "speakerName": "Prathamesh Chavan",
+      "speakerRole": "Technical Support Engineer,Red Hat",
+      "speakerImage": "assets/images/default_speaker_image.png",
+      "speakerDescription": "I am a Technical Support Engineer at Red Hat and a Mozilla Reps Councilman at Mozilla.",
+      "twitter": "https://twitter.com/pathfinderpc",
+      "linkedin": "https://www.linkedin.com/in/prathameshpchavan/",
+      "github": "https://github.com/thirupraveen18",
+      "link": "https://praveent.com",
+      "email": "musicandprathamesh@gmail.com"
     },
     {
-        "sessionName": "Lunch 🍽🍕🍚",
+        "sessionName": "Tea and networking and stalls visit",
         "sessionColor": "#000000",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00"
-    }
-]
+        "sessionStartTime": "04:00",
+        "sessionEndTime": "04:30"
+      },
+      {
+        "sessionName": "Panel Discussion (Mahavir, Antarixsh, Pranoti, Swapnil, Amey, Mehul)",
+        "sessionColor": "#000000",
+        "sessionStartTime": "04:30",
+        "sessionEndTime": "05:00"
+      },
+      {
+        "sessionName": "Closing Note",
+        "sessionColor": "#000000",
+        "sessionStartTime": "05:00",
+        "sessionEndTime": "05:15"
+      }
+  ]
