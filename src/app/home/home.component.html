@@ -59,9 +59,9 @@
             <div class="material-border">
                 <div class="row justify-content-center">
                     <ng-container *ngFor="let lead of speakersList" >
-                        <div *ngIf="lead.speakerName" class="col-md-3">
+                        <div *ngIf="lead.speakerName" class="col-md-4">
                             <img *ngIf="lead.speakerImage && lead.speakerImage !== ''" class="m-2 round-120" [src]='lead.speakerImage' />
-                            <img *ngIf="!lead.speakerImage || lead.speakerImage === ''" class="m-2 round-120" src="assets/icons/placeholder.svg" />
+                            <img *ngIf="!lead.speakerImage || lead.speakerImage === ''" class="m-2 round-120" src="assets/images/empty.png" />
                             <h5 class="pb-0 mb-0 font-regular">{{lead.speakerName}}</h5>
                             <p class="pb-0 mb-1 font-regular color-333333">{{lead.speakerRole}}</p>
                             <nz-tag class="tag-session" [nzColor]="lead.sessionColor">{{lead.sessionName}}</nz-tag>
@@ -73,7 +73,7 @@
     </div>
     <a routerLink="/speakers" routerLinkActive="active"><button nz-button [nzSize]="'large'" nzType="link">View All Speakers<i style="margin-left: 8px; font-size: 18px" class="mr-2 md-3" nz-icon [nzType]="'double-right'"></i></button></a>
     <a routerLink="/sessions" routerLinkActive="active"><button nz-button [nzSize]="'large'" nzType="link">View Sessions<i style="margin-left: 8px; font-size: 18px" class="mr-2 md-3" nz-icon [nzType]="'double-right'"></i></button></a>
-    <h5 class="pt-4 pb-2">We are thankful to our Partners & Sponsors</h5>
+    <!-- <h5 class="pt-4 pb-2">We are thankful to our Partners & Sponsors</h5>
     <div class="row">
         <div class="col-md-12 over-p-lr">
             <div class="material-border">
@@ -101,7 +101,7 @@
                 </p>
             </div>
         </div>
-    </div>
+    </div> -->
     <h5 class="pt-4 pb-2">Excited about the event?</h5>
     <div class="row">
         <div class="col-md-12 over-p-lr">

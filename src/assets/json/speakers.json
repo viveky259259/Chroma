@@ -161,7 +161,7 @@
       {
         "sessionName": "Panel Discussion (Mahavir, Antarixsh, Pranoti, Swapnil, Amey, Mehul)",
         "sessionColor": "orange",
-        "speakerImage": "assets/images/group.png",
+        "speakerImage": "assets/images/group.jpeg",
         "sessionStartTime": "04:30",
         "sessionEndTime": "05:00"
       },
@@ -170,7 +170,8 @@
         "sessionColor": "#000000",
         "sessionStartTime": "05:00",
         "sessionEndTime": "05:15",
-        "speakerName":"GDG Team",
-        "speakerImage":"assets/images/team.png"
+        "speakerName": "Sagar Vaishnav",
+        "speakerRole": "Community Organiser, GDG Nashik",
+        "speakerImage": "assets/team/sagar.jpeg"
       }
   ]

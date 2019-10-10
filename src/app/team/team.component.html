@@ -35,7 +35,7 @@
                 <div *ngIf="coreTeam.length > 0" class="row justify-content-center">
                     <div *ngFor="let lead of coreTeam" class="col-md-4">
                         <img *ngIf="lead.image && lead.image !== ''" class="m-2 round-96" [src]='lead.image' />
-                        <img *ngIf="!lead.image || lead.image === ''" class="m-2 round-96" src="assets/icons/placeholder.svg" />
+                        <img *ngIf="!lead.image || lead.image === ''" class="m-2 round-96" src="{{lead.image}}" />
                         <h5 class="pb-0 mb-0 font-regular">{{lead.name}}</h5>
                         <p class="pb-0 mb-1 font-regular color-333333">{{lead.role}}</p>
                         <div class="mb-5">

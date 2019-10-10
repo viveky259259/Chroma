@@ -1,27 +1,3 @@
 [
-    {
-        "name": "Sandip University",
-        "logo": "assets/icons/gdg.png",
-        "level": "Gold"
-    },
-    {
-        "name": "GDG",
-        "logo": "assets/icons/gdg.png",
-        "level": "Silver"
-    },
-    {
-        "name": "GDG",
-        "logo": "assets/icons/gdg.png",
-        "level": "Bronze"
-    },
-    {
-        "name": "GDG",
-        "logo": "assets/icons/gdg.png",
-        "level": "Media"
-    },
-    {
-        "name": "GDG",
-        "logo": "assets/icons/gdg.png",
-        "level": "Venue"
-    }
+   
 ]
