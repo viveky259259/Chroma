@@ -13,11 +13,15 @@
       },
    
       {
-        "sessionName": "Mahaver Mutha",
-        "sessionColor": "orange",
+        "speakerName": "Mahaver Mutha",
+        "sessionColor": "#0000ff",
+        "sessionName":"TBD",
         "sessionStartTime": "09:15",
         "sessionEndTime": "09:45",
-        "speakerImage": "assets/images/default_speaker_image.png"
+        "speakerImage": "assets/speakers/Mahaveer .jpg",
+        "speakerRole":"Director at Birdvision Consulting Pvt Ltd. Organizer: Google developer group. #GDGPune",
+        "linkedin": "https://www.linkedin.com/in/mahaveer-muttha/",
+"twitter" :"https://twitter.com/mahaveermuttha"
       },
       {
         "sessionName": "Making things compartable with cloud",
@@ -26,19 +30,23 @@
         "sessionStartTime": "09:45",
         "sessionEndTime": "10:00",
         "speakerName": "Mayank Chourasia",
-        "speakerRole": "Student,DSC MITAOE CORE",
-        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerRole": "Google Cloud Study Jam Facilitator",
+        "speakerImage": "assets/speakers/Mayank.JPG",
         "speakerDescription": "Quest leader for Google Cloud Platform & have already trained ~500 people for GCP. I have completed 250+ qwiklabs & completed 7+ coursera courses on GCP. I am cloud enthusiast & have explored a lot regarding Google Cloud Platform by getting hands on practice & training others.",
-        "linkedin": "https://www.facebook.com/srushti.invent/",
+        "linkedin": "https://www.linkedin.com/in/mayank-chourasia-38421a134/",
         "twitter": "https://twitter.com/chourasiamayank",
         "email": "mayankchourasia2@gmail.com"
       },
       {
-        "sessionName": "Antrix Gupta",
+        "sessionName": "Google Anthos",
+        "speakerName":"Antrix Gupta",
         "sessionColor": "orange",
         "sessionStartTime": "10:00",
         "sessionEndTime": "10:30",
-        "speakerImage": "assets/images/default_speaker_image.png"
+        "speakerImage": "assets/speakers/Antrixsh.jpg",
+        "speakerRole":"Founder / CEO and Chief Data Scientist at Danalitic",
+        "linkedin": "https://www.linkedin.com/in/antrixsh-gupta-432329152/",
+"twitter" : "https://twitter.com/AntrixshG"
       },
       {
         "sessionName": "Community Management - Not less than a curry",
@@ -48,7 +56,7 @@
         "sessionEndTime": "11:00",
         "speakerName": "Prathamesh Chavan",
         "speakerRole": "Technical Support Engineer,Red Hat",
-        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerImage": "assets/speakers/Prathamesh Chavan.jpg",
         "speakerDescription": "I am a Technical Support Engineer at Red Hat and a Mozilla Reps Councilman at Mozilla.",
         "twitter": "https://twitter.com/pathfinderpc",
         "linkedin": "https://www.linkedin.com/in/prathameshpchavan/",
@@ -59,15 +67,34 @@
         "sessionName": "Tea and networking",
         "sessionColor": "#000000",
         "sessionStartTime": "11:00",
-        "sessionEndTime": "11:45"
+        "sessionEndTime": "11:30"
       },
       {
-        "sessionName": "Swapnil Jathar",
+        "speakerName": "Swapnil Jathar",
+        "sessionName":"TBD",
         "sessionColor": "orange",
-
-        "sessionStartTime": "11:45",
+        "sessionStartTime": "11:30",
+        "sessionEndTime": "12:00",
+        "speakerImage": "assets/images/default_speaker_image.png",
+        "linkedin": "https://www.linkedin.com/in/swapniljathar/",
+"twitter" : "https://twitter.com/swapniljathar"
+      },
+      {
+        "sessionName": "Learning Machines, doing Machine Learning!",
+        "sessionColor": "geekblue",
+        "sessionDescription": "I’ve always been exploring my curriculum because it's teaching me machines and I am doing machine learning, also recently my monday motivation twitted by Google Devs India (https://twitter.com/GoogleDevsIN/status/1168433193193627648?s=20)I would like to depict my journey of two years from having inferiority complex towards computer science to being this frank in communities loving me for being a tech enthusiast. I wanna go beyond gender diversity, to this convex approach to tech with all the other aspects. What communities gave me is a perspective to look for opportunities around, taught me to learn new things coming on my way. Basically wanna say everything out here is offering you something, I take it to my vision & climb! I would also like to talk about my recent research on user experience & product design, srints, agile & scrum, giving a focus to Human Computer Interaction, focusing AI & ML, one of my blog published by REDX, founded by Prof. Ramesh Rasker (https://medium.com/@vidyangispatil/turning-noisy-stampedes-of-wari-into-cradles-of-innovation-87e30f2d9def). Today when I look back to what I was two years back, I feel awesome being a learner among those 180 mechanical brains, thinking out of the box, making a new way towards promoting and letting everyone know that if you're fascinating enough for tech, you'll see solutions with it in every aspect to work in. Thinking about why don't we keep learning the way we expect machines to!",
+        "sessionStartTime": "12:00",
         "sessionEndTime": "12:15",
-        "speakerImage": "assets/images/default_speaker_image.png"
+        "speakerName": "Namrata More",
+        "speakerRole": "Innovator at REDX MITAOE,MIT Acadmy of Engineering",
+        "speakerImage": "assets/speakers/Nam.JPG",
+        "speakerDescription": "I'am a part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, Mentor at MentorCruise, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
+        "twitter": " https://twitter.com/namratamore_nm",
+        "linkedin": "https://www.linkedin.com/in/namratamore-nm/",
+
+        "email": "nmrtmore@gmail.com",
+        "fb": "https://www.facebook.com/nmrtmore",
+        "medium": "https://medium.com/@nmrtmore"
       },
       {
         "speakerName": "Himanshu Jain and Pooja Jain",
@@ -75,7 +102,8 @@
         "sessionStartTime": "12:15",
         "sessionEndTime": "12:45",
         "sessionName": "Auto ML",
-        "speakerImage": "assets/images/default_speaker_image.png"
+        "speakerImage": "assets/speakers/Himanshu.JPG",
+        "speakerImage2":"assets/speakers/pooja.jpg"
       },
       {
         "sessionName": "Ideas into Action",
@@ -85,7 +113,7 @@
         "sessionEndTime": "01:00",
         "speakerName": "Srushti Nerkar",
         "speakerRole": "Social Innovator",
-        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerImage": "assets/speakers/Srushti DevFest Photo.jpeg",
         "speakerDescription": "Srushti Nerkar’s growing concern over environmental issues pushed her to find solutions at the very young age of 12 years. She is now working with technologies to solve the problems at very young age. For the same she also got invited at International Women's Day Celebration at WTM Pune. She spoke how technology can help us to solve the major issues in the community. She has also spoke at multiple international conferences as a speaker at this young age. ",
         "fb": "https://www.facebook.com/srushti.invent/",
         "youtube": "https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
@@ -97,10 +125,11 @@
         "sessionEndTime": "02:00"
       },
       {
-        "sessionName": "Dhrumil Shah",
+        "speakerName": "Dhrumil Shah",
         "sessionColor": "blue",
-        "speakerImage": "assets/images/default_speaker_image.png",
-
+        "speakerImage": "assets/speakers/Dhrumil Shah.jpg",
+        "sessionName":"Flutter for Everyone ",
+        "speakerRole":"GDE Flutter",
         "sessionStartTime": "02:00",
         "sessionEndTime": "02:30"
       },
@@ -109,43 +138,30 @@
         "sessionColor": "orange",
         "sessionStartTime": "02:30",
         "sessionEndTime": "3:00",
-        "sessionName": " Leadership",
-        "speakerImage": "assets/images/default_speaker_image.png"
+        "sessionName": " Demystifying Leadership ",
+        "speakerImage": "assets/speakers/Kapil_Relan.jpg",
+        "speakerRole":"Founder at Elcon Academy"
 
       },
-      {
-        "sessionName": "Learning Machines, doing Machine Learning!",
-        "sessionColor": "geekblue",
-        "sessionDescription": "I’ve always been exploring my curriculum because it's teaching me machines and I am doing machine learning, also recently my monday motivation twitted by Google Devs India (https://twitter.com/GoogleDevsIN/status/1168433193193627648?s=20)I would like to depict my journey of two years from having inferiority complex towards computer science to being this frank in communities loving me for being a tech enthusiast. I wanna go beyond gender diversity, to this convex approach to tech with all the other aspects. What communities gave me is a perspective to look for opportunities around, taught me to learn new things coming on my way. Basically wanna say everything out here is offering you something, I take it to my vision & climb! I would also like to talk about my recent research on user experience & product design, srints, agile & scrum, giving a focus to Human Computer Interaction, focusing AI & ML, one of my blog published by REDX, founded by Prof. Ramesh Rasker (https://medium.com/@vidyangispatil/turning-noisy-stampedes-of-wari-into-cradles-of-innovation-87e30f2d9def). Today when I look back to what I was two years back, I feel awesome being a learner among those 180 mechanical brains, thinking out of the box, making a new way towards promoting and letting everyone know that if you're fascinating enough for tech, you'll see solutions with it in every aspect to work in. Thinking about why don't we keep learning the way we expect machines to!",
-        "sessionStartTime": "3:00",
-        "sessionEndTime": "3:15",
-        "speakerName": "Namrata More",
-        "speakerRole": "Innovator at REDX MITAOE,MIT Acadmy of Engineering",
-        "speakerImage": "assets/images/default_speaker_image.png",
-        "speakerDescription": "I'am a part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, Mentor at MentorCruise, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
-        "twitter": " https://twitter.com/namratamore_nm",
-        "email": "nmrtmore@gmail.com",
-        "fb": "https://www.facebook.com/nmrtmore",
-        "medium": "https://medium.com/@nmrtmore"
-      },
+    
       {
         "speakerName": "Rishab Singh",
         "sessionColor": "orange",
-        "sessionStartTime": "03:15",
-        "sessionEndTime": "03:45",
-        "speakerImage": "assets/images/default_speaker_image.png",
-
+        "sessionStartTime": "03:00",
+        "sessionEndTime": "03:30",
+        "speakerImage": "assets/speakers/Rishabh Singh.jpg",
+        "speakerRole":"American Express & Software Development Engineering",
         "sessionName": "Protocol Buffers: Is it worth the switch from JSON?"
       },
       {
         "sessionName": "Making communities Artificially Intelligent",
         "sessionColor": "orange",
         "sessionDescription": "Today we are having 25+ million differently abled people in our country & they are not having access to any kind of technology. Tech communities like GDG's & WTM are also not reaching to those individuals in society. Being a social innovator & an active community member I trying to get those people on-board as the technology users. For that I have created some innovative solutions using technologies like Android & TensorFlow. I have developed new hearing aid which is costing 1% of the current cost. That innovation uses android platform to teach the students about the basics of phonetics & helps them to gain confidence for speaking. They can also practice their pronunciations using the same. This innovation has impacted a lot of deaf persons in my community & is helping them to learn at the right age. This uses Google API's in the backend. There is also the device for Blind people which overcomes the measure drawbacks of existing solutions by Google & Microsoft. For this I am using TensorFlow eager execution & my own dataset. This will help people to think about the whole new aspect of community & how they can contribute to rest of the humanity using the power of the technical tools in their hand. If the 20 year old kid can then they can surely do. This talk will be a lightning talk of 15-20 minutes but can explore the people to whole new horizons of technology. Some parts of my this journey will be recorded by GOOGLE's international branding team to publish from their official handles. I can really help the audience by sharing my whole technological journey for communities to find 'what's their MoonShot?'",
-        "sessionStartTime": "03:45",
+        "sessionStartTime": "03:30",
         "sessionEndTime": "04:00",
         "speakerName": "Amey Nerkar",
-        "speakerRole": "Lead,DSC MITAOE",
-        "speakerImage": "assets/images/default_speaker_image.png",
+        "speakerRole": "Google Developer Student Club Lead",
+        "speakerImage": "assets/speakers/Amey DevFest.JPG",
         "speakerDescription": "I am a social innovator & making sure that technology is being used by the everyone out there in society. I am making something wonderful & putting it out there in society since childhood. I am using the latest technologies for the benefit of the common man. I am a Google Developer Student Club Lead as well the active member of GDG Pune. I was mentioned by Dr. A. P. J. Abdul Kalam in his inaugural speech at Indian Science Congress. I am good at Machine Learning & Android & using it for the communities where other tech communities like GDG's & WTM are not reaching. For my technological contributions towards the rest of the humanity Google is filming a documentary on my work & it will be published on official handles by Google. I am a public speaker & have addressed more than 50 national & international conferences. ",
         "linkedin": "linkedin.com/in/ameyinvent",
         "twitter": "https://twitter.com/ameyinvent",

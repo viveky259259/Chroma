@@ -21,7 +21,7 @@ export class EventsComponent implements OnInit {
     var parent = this;
     speakers.forEach(function(object){
       parent.speakersList.push({'sessionName': object["sessionName"], 'sessionStartTime': object["sessionStartTime"], 'sessionEndTime': object["sessionEndTime"],
-      'sessionColor': object["sessionColor"], 'name': object["speakerName"], 'role': object["speakerRole"], 'image': object["speakerImage"],
+      'sessionColor': object["sessionColor"], 'name': object["speakerName"], 'role': object["speakerRole"], 'image': object["speakerImage"],'image2': object["speakerImage2"],
       'description': object["speakerDescription"],'twitter': object["twitter"], 'github': object["github"], 'linkedin': object["linkedin"], 'link': object["link"],'youtube': object["youtube"],'fb': object["fb"]});
     });
   }
