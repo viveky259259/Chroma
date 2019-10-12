@@ -91,13 +91,14 @@
                             <h6 style="text-transform: uppercase;" *ngIf="sponsor.level === 'Silver'" class="h6-silver">{{sponsor.level}}</h6>
                             <h6 style="text-transform: uppercase;" *ngIf="sponsor.level === 'Bronze'" class="h6-bronze">{{sponsor.level}}</h6>
                             <h6 style="text-transform: uppercase;" *ngIf="sponsor.level !== 'Gold' && sponsor.level !== 'Silver' && sponsor.level !== 'Bronze'" class="h6-default">{{sponsor.level}}</h6>
+                            <h6 style="text-transform: uppercase;" *ngIf="sponsor.name" class="h6-default">{{sponsor.name}}</h6>
                         </div>
                     </div>
                 </div>
                 <p class="pt-4 font-regular">
                     Our community partners play a helpful role in successfully running the community initiatives and {{communityName}} is thankful to them.
                     We also extend our sincere thanks to all our sponsors who help us in providing logistics, venue, resource persons and more.
-                    <br><br>If you or your company is interested in working with GDG Cloud Nashik, contact us via {{communityEmail}} or {{communityMobile}}.
+                    <br><br>If you or your company is interested in working with GDG Nashik, contact us via {{communityEmail}} or {{communityMobile}}.
                 </p>
             </div>
         </div>

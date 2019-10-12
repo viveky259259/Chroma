@@ -144,12 +144,12 @@ Have a bug or a feature request? If your problem or idea is not addressed yet, [
 
 ## Creators
 
-- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Nashik</a>
+- <a href="https://gdgcloudcbe.com" target="_blank">GDG Nashik</a>
 - <a href="https://gdgcbe.com" target="_blank">GDG Nashik</a>
 
 ## Template Usage
 
-- <a href="https://gdgcloudcbe.com" target="_blank">GDG Cloud Nashik</a>
+- <a href="https://gdgcloudcbe.com" target="_blank">GDG Nashik</a>
 - <a href="https://gdgcbe.com" target="_blank">GDG Nashik</a>
 
 ## Copyright and License
@@ -160,4 +160,4 @@ This project is licenced under Mozilla Public License 2.0.
 Please read the clauses carefully before you use it for personal or commercial purposes.
 
 Thanks to all supporters and contributors to make this available for everyone.
-If you have any suggesstions or feedbacks on the code, please ping GDG Cloud Nashik team for quick assistance.
+If you have any suggesstions or feedbacks on the code, please ping GDG Nashik team for quick assistance.

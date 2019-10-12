@@ -1,3 +1,15 @@
 [
-   
+    {
+        "name":"KBT",
+        "logo":"assets/images/VenuePartner-Kbt-Logo.png"
+    }, {
+       "name":"ELCON",
+       "logo":"assets/images/ELCON.jpeg"
+   },  {
+    "name":"Shroff Publishers & Distributors",
+    "logo":"/assets/images/KnowledgePartner - Shroff Publishers & Distributors.jpg"
+},   {
+    "name":"SoftPixel",
+    "logo":"assets/images/SoftPixel_LOGO.png"
+}
 ]
