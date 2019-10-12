@@ -18,6 +18,7 @@
                             <div class="ml-1">
                                 <img *ngIf="lead.image && lead.image !== ''" class="m-2 round-42" [src]='lead.image' />
                                 <img *ngIf="!lead.image || lead.image === ''" class="m-2 round-42" src="assets/icons/placeholder.svg" />
+                                <img *ngIf="lead.image2 && lead.image2 !== ''" class="m-2 round-42" [src]='lead.image2' />
                             </div>
                             <div class="col-md-3" style="align-self: center">
                                 <p class="mt-0 mb-0 color-333333">{{lead.name}}</p>

@@ -13,13 +13,13 @@
       },
    
       {
-        "speakerName": "Mahaveer Mutha",
+        "speakerName": "Mahaveer Muttha",
         "sessionColor": "#0000ff",
-        "sessionName":"TBD",
+        "sessionName":"Commercialization of Technology",
         "sessionStartTime": "09:15",
         "sessionEndTime": "09:45",
         "speakerImage": "assets/speakers/Mahaveer .jpg",
-        "speakerRole":"Director at Birdvision Consulting Pvt Ltd. Organizer: Google developer group. #GDGPune",
+        "speakerRole":"Organizer Google Developer Group Pune \nDirector IT : BirdVision Consulting Pvt LTD",
         "linkedin": "https://www.linkedin.com/in/mahaveer-muttha/",
 "twitter" :"https://twitter.com/mahaveermuttha"
       },
@@ -39,11 +39,11 @@
       },
       {
         "sessionName": "Google Anthos",
-        "speakerName":"Antrix Gupta",
+        "speakerName":"Antrixsh Gupta",
         "sessionColor": "orange",
         "sessionStartTime": "10:00",
         "sessionEndTime": "10:30",
-        "speakerImage": "assets/speakers/Antrixsh.jpg",
+        "speakerImage": "assets/speakers/anteriksh.jpeg",
         "speakerRole":"Founder / CEO and Chief Data Scientist at Danalitic",
         "linkedin": "https://www.linkedin.com/in/antrixsh-gupta-432329152/",
 "twitter" : "https://twitter.com/AntrixshG"
@@ -63,61 +63,66 @@
         "github": "https://github.com/thirupraveen18",
         "link": "https://praveent.com",
         "email": "musicandprathamesh@gmail.com"
-      }, {
-        "sessionName": "Tea and networking",
-        "sessionColor": "#000000",
-        "sessionStartTime": "11:00",
-        "sessionEndTime": "11:30"
-      },
+      }, 
       {
-        "speakerName": "Swapnil Jathar",
-        "sessionName":"TBD",
-        "sessionColor": "orange",
-        "sessionStartTime": "11:30",
-        "sessionEndTime": "12:00",
+        "speakerName": "Pranoti Nandurkar",
+        "sessionColor": "blue",
         "speakerImage": "assets/images/default_speaker_image.png",
-        "linkedin": "https://www.linkedin.com/in/swapniljathar/",
-"twitter" : "https://twitter.com/swapniljathar"
+        "sessionName":"Journey from attendee to WTM lead.",
+        "speakerRole":"WTM Ambassador Pune, \nSr. Consultant , Infosys.",
+        "sessionStartTime": "11:00",
+        "sessionEndTime": "11:20",
+        "linkedin": "https://www.linkedin.com/in/pranoti-nandurkar-170021b/",
+"twitter" : "https://twitter.com/PranotiNandurka"
       },
       {
         "sessionName": "Learning Machines, doing Machine Learning!",
         "sessionColor": "geekblue",
         "sessionDescription": "I’ve always been exploring my curriculum because it's teaching me machines and I am doing machine learning, also recently my monday motivation twitted by Google Devs India (https://twitter.com/GoogleDevsIN/status/1168433193193627648?s=20)I would like to depict my journey of two years from having inferiority complex towards computer science to being this frank in communities loving me for being a tech enthusiast. I wanna go beyond gender diversity, to this convex approach to tech with all the other aspects. What communities gave me is a perspective to look for opportunities around, taught me to learn new things coming on my way. Basically wanna say everything out here is offering you something, I take it to my vision & climb! I would also like to talk about my recent research on user experience & product design, srints, agile & scrum, giving a focus to Human Computer Interaction, focusing AI & ML, one of my blog published by REDX, founded by Prof. Ramesh Rasker (https://medium.com/@vidyangispatil/turning-noisy-stampedes-of-wari-into-cradles-of-innovation-87e30f2d9def). Today when I look back to what I was two years back, I feel awesome being a learner among those 180 mechanical brains, thinking out of the box, making a new way towards promoting and letting everyone know that if you're fascinating enough for tech, you'll see solutions with it in every aspect to work in. Thinking about why don't we keep learning the way we expect machines to!",
-        "sessionStartTime": "12:00",
-        "sessionEndTime": "12:15",
+        "sessionStartTime": "11:20",
+        "sessionEndTime": "11:40",
         "speakerName": "Namrata More",
         "speakerRole": "Innovator at REDX MITAOE,MIT Acadmy of Engineering",
         "speakerImage": "assets/speakers/Nam.JPG",
         "speakerDescription": "I'am a part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, Mentor at MentorCruise, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
         "twitter": " https://twitter.com/namratamore_nm",
         "linkedin": "https://www.linkedin.com/in/namratamore-nm/",
-
         "email": "nmrtmore@gmail.com",
         "fb": "https://www.facebook.com/nmrtmore",
         "medium": "https://medium.com/@nmrtmore"
       },
       {
-        "speakerName": "Himanshu Jain and Pooja Jain",
-        "sessionColor": "orange",
-        "sessionStartTime": "12:15",
-        "sessionEndTime": "12:45",
-        "sessionName": "Auto ML",
-        "speakerImage": "assets/speakers/Himanshu.JPG",
-        "speakerImage2":"assets/speakers/pooja.jpg"
-      },
-      {
         "sessionName": "Ideas into Action",
         "sessionColor": "orange",
         "sessionDescription": "My topic will be related to water conservation. I have developed a 'Water Saving Shower' which saves 85% shower which is almost 65-70 literes water per shower bath. I am currently in 9th standard & have already spoken at many international conferences & have received many awards for my innovation. So I will like to have a small session of 15-20 minutes as a break for whole day technical talks series. https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s",
-        "sessionStartTime": "12:45",
-        "sessionEndTime": "01:00",
+        "sessionStartTime": "11:40",
+        "sessionEndTime": "12:00",
         "speakerName": "Srushti Nerkar",
-        "speakerRole": "Social Innovator",
+        "speakerRole": "Young Innovator",
         "speakerImage": "assets/speakers/Srushti DevFest Photo.jpeg",
         "speakerDescription": "Srushti Nerkar’s growing concern over environmental issues pushed her to find solutions at the very young age of 12 years. She is now working with technologies to solve the problems at very young age. For the same she also got invited at International Women's Day Celebration at WTM Pune. She spoke how technology can help us to solve the major issues in the community. She has also spoke at multiple international conferences as a speaker at this young age. ",
         "fb": "https://www.facebook.com/srushti.invent/",
         "youtube": "https://www.youtube.com/watch?v=t4Pf4uvNY8E&t=66s"
       },
+      {
+        "speakerName": "Himanshu Jain and Pooja Jain",
+        "sessionColor": "orange",
+        "sessionStartTime": "12:00",
+        "sessionEndTime": "12:30",
+        "sessionName": "Auto ML",
+        "speakerImage": "assets/speakers/Himanshu.JPG",
+        "speakerImage2":"assets/speakers/pooja.jpg"
+      },
+      {
+        "speakerName": "Sachin Galande",
+        "sessionColor": "orange",
+        "sessionStartTime": "12:30",
+        "sessionEndTime": "12:50",
+        "sessionName": "Importance of Fitness and Nutrition",
+        "speakerRole": "Owner of Iron Sports Gym , Nashik",
+        "speakerImage":"assets/images/default_speaker_image.png"
+      },
+     
       {
         "sessionName": "Lunch 🍽🍕🍚",
         "sessionColor": "#000000",
